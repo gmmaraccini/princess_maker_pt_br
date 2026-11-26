@@ -1,9 +1,14 @@
+# Princess Maker 2 (DOS) - Tradução PT-BR
 
 Patch não oficial que traduz para português do Brasil a versão **DOS em inglês** de Princess Maker 2.
 
 - **Versão:** 1.2 (beta) - 26/11/2026
 - **Tradutor:** Gabriel Maraccini
 - **Método:** tradução feita com auxílio de inteligência artificial
+
+## Download
+
+[Baixar a versão mais recente](https://github.com/gmmaraccini/princess_maker_pt_br/raw/main/PM2-PTBR-v1.2.zip) - arquivo `PM2-PTBR-v1.2.zip`
 
 ## O jogo não está incluído
 
