@@ -1,6 +1,3 @@
-# princess_maker_pt_br
-# Princess Maker 2 (DOS) - Tradução PT-BR
-# Princess Maker 2 (DOS) - Tradução PT-BR
 
 Patch não oficial que traduz para português do Brasil a versão **DOS em inglês** de Princess Maker 2.
 
