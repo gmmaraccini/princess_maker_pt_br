@@ -10,6 +10,26 @@ Patch não oficial que traduz para português do Brasil a versão **DOS em ingl�
 
 [Baixar a versão mais recente](https://github.com/gmmaraccini/princess_maker_pt_br/raw/main/PM2-PTBR-v1.2.zip) - arquivo `PM2-PTBR-v1.2.zip`
 
+## Capturas de tela
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="screenshots/2.png" alt="Escolha do nome" width="100%"><br>Escolha do nome</td>
+<td width="50%" align="center"><img src="screenshots/4.png" alt="Abertura" width="100%"><br>Abertura</td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="screenshots/5.png" alt="Cena com o rei" width="100%"><br>Cena com o rei</td>
+<td width="50%" align="center"><img src="screenshots/6.png" alt="Itens da filha" width="100%"><br>Itens da filha</td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="screenshots/7.png" alt="Atributos" width="100%"><br>Atributos</td>
+<td width="50%" align="center"><img src="screenshots/8.png" alt="Concurso de culinária" width="100%"><br>Concurso de culinária</td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="screenshots/9.png" alt="Carta da filha" width="100%"><br>Carta da filha</td>
+</tr>
+</table>
+
 ## O jogo não está incluído
 
 Este pacote traz apenas a tradução. Você precisa ter a sua própria cópia do jogo. Não funciona com Princess Maker 2 Refine nem Regeneration (Steam e consoles).
